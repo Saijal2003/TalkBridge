@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234363892616",
+    "firebase_url": "https://talkbridge-d95fe-default-rtdb.firebaseio.com",
+    "project_id": "talkbridge-d95fe",
+    "storage_bucket": "talkbridge-d95fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234363892616:android:eceb278890a93e3be5803d",
+        "android_client_info": {
+          "package_name": "com.example.talkbridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234363892616-96rvmrf9nlri367l6cmegp237n3nikf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkbridge",
+            "certificate_hash": "de1f10d22440f8e913e4bced399817010867020d"
+          }
+        },
+        {
+          "client_id": "234363892616-tplc7r93cub9bipqoef9q8i5cugmg0lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvg_CU0DHLI557idWoaFx4nf12kWpksA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234363892616-tplc7r93cub9bipqoef9q8i5cugmg0lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
